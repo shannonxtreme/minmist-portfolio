@@ -10,3 +10,10 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+posts:
+  - title: "Filewall.io"
+    children:
+      - title: "Introduction"
+        url: /api-docs/filewall/introduction
+      - title: "Overview"
+        url: /api-docs/filewall/overview

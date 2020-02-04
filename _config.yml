@@ -22,7 +22,7 @@ subtitle                 : Technical Writer
 name                     : "Shannon Kularathna"
 description              : "Shannon's documentation portfolio."
 url                      : "https://shannonxtreme.github.io"
-baseurl                  : "/minmist-portfolio"
+baseurl                  : # base-url
 repository               : "shannonxtreme/minmist-portfolio"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -107,10 +107,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Shannon Kularathna"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Technical writer experienced conventional documentation with an interest in breaking into the API documentation space."
+  location         : "Markham, ON"
   email            :
   links:
     - label: "Email"
